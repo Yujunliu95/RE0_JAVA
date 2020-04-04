@@ -8,5 +8,3 @@ public class HelloWorld {
 		System.out.println("Hello,World!!!");
 	}
 }
-
-关键字
