@@ -2,7 +2,7 @@
 <details>
 <summary>第一章-超级基础</summary>
 
-## 1.1 Helloword
+## 1.1 Helloworld
     1. 关键字: public, static void, class
     2. 标识符不能数字开头，不能是关键字
     
@@ -61,6 +61,7 @@
     1. + - * / 四则运算
     2. ++   -- 
     3. 除法：对于整数表达式。整数/整数 不看余数
+    4. 取余数：%
     
     
     

@@ -12,7 +12,10 @@ public class Demo04Operator {
 
         int x = 10;
         int y = 3;
-        int result1 = x / y
+        int result1 = x / y;
+        int result2 = x % y;
+        System.outprintln(result1); // 3
+        System.outprintln(result2); // 1
 
 
 
