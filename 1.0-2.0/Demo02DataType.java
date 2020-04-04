@@ -11,6 +11,7 @@ public class Demo01DataType {
         int num2 = (int) 60000000000L;
         System.out.println(num2); //1705032704
 
-
+        char zifu1 = 'A';
+        System.out.println(zifu1 +1); //66, A=65
     }
 }
