@@ -13,5 +13,19 @@ public class Demo01DataType {
 
         char zifu1 = 'A';
         System.out.println(zifu1 +1); //66, A=65
+
+        byte num4 = 40;
+        byte num5 = 50;
+        // byte + byte --> int + int ---> int
+        int result1 = num4 + num5;
+        System.out.println(result1); // 90
+
+
+
+
+
+
+
+
     }
 }

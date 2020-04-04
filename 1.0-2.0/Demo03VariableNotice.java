@@ -14,5 +14,9 @@ public class Demo03VariableNotice {
         // not recommend
         int x = 100, y = 200, z = 300;
         System.out.println(x); // 100
+
+
+
+
     }
 }

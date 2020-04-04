@@ -20,6 +20,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -34,6 +40,7 @@
       <updated>1586009778024</updated>
       <workItem from="1586009782701" duration="88000" />
       <workItem from="1586009893166" duration="65000" />
+      <workItem from="1586009984217" duration="3046000" />
     </task>
     <servers />
   </component>
@@ -41,6 +48,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="904" y="192" key="#Java" timestamp="1586016361169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="192" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1586016361169" />
+    <state x="828" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586016081060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586016081060" />
+    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586015829641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586015829641" />
+    <state x="905" y="175" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586016426688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="905" y="175" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586016426688" />
+    <state x="1058" y="417" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586010515828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1058" y="417" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586010515828" />
     <state x="1002" y="311" key="FileChooserDialogImpl" timestamp="1586009837411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
