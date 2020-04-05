@@ -17,6 +17,9 @@ public class Demo04Operator {
         System.outprintln(result1); // 3
         System.outprintln(result2); // 1
 
+        //  int + double --> double + double --> double
+        double result3 = x + 2.5;
+        System.out.println(result3); // 12.5
 
 
 
