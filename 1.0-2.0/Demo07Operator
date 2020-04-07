@@ -8,6 +8,14 @@ public class Demo07Operator{
         x %= 3;
         System.out.println(x); // 1
 
+        byte num = 30;
+        // num = byte + int
+        // num = int+ int
+        // num = (byte) int
+        num += 5;
+
+
+
 
 
 
