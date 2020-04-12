@@ -42,7 +42,8 @@
       <workItem from="1586009893166" duration="65000" />
       <workItem from="1586009984217" duration="6262000" />
       <workItem from="1586095899531" duration="2428000" />
-      <workItem from="1586245008380" duration="5934000" />
+      <workItem from="1586245008380" duration="8328000" />
+      <workItem from="1586702653983" duration="2626000" />
     </task>
     <servers />
   </component>
@@ -58,10 +59,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586016081060" />
-    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586245075870">
+    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586705513731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586245075870" />
+    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586705513731" />
     <state x="905" y="175" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586016426688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -78,13 +79,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="723" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586009909842" />
-    <state x="919" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586245012316">
+    <state x="919" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586702703968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="919" y="380" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586245012316" />
+    <state x="919" y="380" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586702703968" />
     <state x="551" y="99" key="new project wizard" timestamp="1586009865301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="99" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586009865301" />
+    <state x="932" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1586705692593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="932" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586705692593" />
   </component>
 </project>
