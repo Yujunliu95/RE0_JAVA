@@ -1,6 +1,7 @@
 # 此仓库将记录本菜鸡从0开始学习JAVA的所有过程
 <details>
-<summary>[第一章-超级基础](https://github.com/Yujunliu95/RE0_JAVA/tree/master/1.0-2.0)</summary>
+[代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/1.0-2.0)
+<summary>第一章-超级基础</summary>
 
 ## 1.1 Helloworld
     1. 关键字: public, static void, class
