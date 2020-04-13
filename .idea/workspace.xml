@@ -7,6 +7,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,7 +57,8 @@
       <workItem from="1586009984217" duration="6262000" />
       <workItem from="1586095899531" duration="2428000" />
       <workItem from="1586245008380" duration="8328000" />
-      <workItem from="1586702653983" duration="2626000" />
+      <workItem from="1586702653983" duration="4495000" />
+      <workItem from="1586748944997" duration="10205000" />
     </task>
     <servers />
   </component>
@@ -55,14 +70,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="904" y="192" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1586016361169" />
-    <state x="828" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586016081060">
+    <state x="675" y="280" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586759107317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="828" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586016081060" />
-    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586705513731">
+    <state x="675" y="280" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586759107317" />
+    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586759271727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586705513731" />
+    <state x="1013" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586759271727" />
     <state x="905" y="175" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586016426688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -79,17 +94,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="723" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586009909842" />
-    <state x="919" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586702703968">
+    <state x="919" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586748946001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="919" y="380" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586702703968" />
+    <state x="919" y="380" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586748946001" />
+    <state x="758" y="199" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586750941828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="199" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586750941828" />
     <state x="551" y="99" key="new project wizard" timestamp="1586009865301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="99" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586009865301" />
-    <state x="932" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1586705692593">
+    <state x="1039" y="251" width="672" height="677" key="run.anything.popup" timestamp="1586758263190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="932" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586705692593" />
+    <state x="1039" y="251" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586758263190" />
+    <state x="932" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1586766597522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="932" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586766597522" />
   </component>
 </project>

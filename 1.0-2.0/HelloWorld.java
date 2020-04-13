@@ -1,4 +1,4 @@
-	// 单行注释
+jj	// 单行注释
 	// class-类
 public class HelloWorld {
 	// 万年不变，代表main
