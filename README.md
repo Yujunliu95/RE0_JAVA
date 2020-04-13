@@ -1,6 +1,6 @@
 # 此仓库将记录本菜鸡从0开始学习JAVA的所有过程
 <details>
-<summary>第一章-超级基础</summary>
+<summary>[第一章-超级基础](https://github.com/Yujunliu95/RE0_JAVA/tree/master/1.0-2.0)</summary>
 
 ## 1.1 Helloworld
     1. 关键字: public, static void, class
@@ -202,11 +202,23 @@
 ## 练习，求1-100的偶数和 （practice1）
     1.判断偶数 num % 2 == 0
 
-## 三种循环的区别
+## 2.5 三种循环的区别
     1. 如果条件判断从来没有满足过，那么for循环和while会执行0次，
     但是do-while会至少执行一次。
     2. for循环的变量在小括号顶一，只有循环内部才能用;
     而其余两个变量提前定义，可以往后再使用。
+
+## 2.5.1 循环控制
+    Break用法：
+    1. switch语句中，或者循环语句中打断循环。
+    2. 循环语句中，一旦执行，，打断循环。
+    建议：
+    次数确定用for，不确定用while
+    
+    Continue用法:
+    一旦执行，跳过当次循环，马上开始下一循环。（demo10）
+    
+
 
 
 
