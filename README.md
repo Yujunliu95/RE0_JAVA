@@ -227,7 +227,7 @@
     while (true) {
     循环体
     }
-    
+    __
 ## 2.5.3 嵌套循环 (demo12)
     格式:
     for(初始化；循环条件；步进）{
@@ -238,12 +238,20 @@
 
 </details>
 
-[第三章代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/3.0-4.0)
+[第三章代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/src)
 
 <details>
 <summary>第三章-IDEA开发</summary>
 
-
+## Demo01:打印矩形
+    定义格式:
+    public static void 方法名称() {
+    方法体 
+    }
+    
+    注意：定义顺序无所谓，定义必须挨着；
+    
+##  Demo02:
 
 
 
