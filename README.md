@@ -141,6 +141,8 @@
     
 </details>
 
+[第二章代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/2.0-3.0)
+
 <details>
 <summary>第二章-流程及循环</summary>
 
@@ -219,112 +221,27 @@
     
     Continue用法:
     一旦执行，跳过当次循环，马上开始下一循环。（demo10）
+
+## 2.5.2 死循环 (demo11)
+    标准格式:
+    while (true) {
+    循环体
+    }
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 2.5.3 嵌套循环 (demo12)
+    格式:
+    for(初始化；循环条件；步进）{
+        for(初始化；循环条件；步进) {
+        执行语句;
+        }
+    }
+
+</details>
+
+[第三章代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/3.0-4.0)
+
+<details>
+<summary>第三章-IDEA开发</summary>
 
 
 
