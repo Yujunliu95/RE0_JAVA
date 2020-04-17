@@ -305,8 +305,31 @@
     6. 一个方法可以多个return，但是要保证只有一个会被执行到。
     
 ## Demo05 方法重载（overload）
-
-
+    1.多个方法的名称一样，但是参数列表不一样。
+    相关：
+    参数多类型数据不同，
+    参数类型不同，
+    参数的个数不同。
+    无关：
+    1. 与参数的名称无关
+    2. 与方法的返回值类型无关
+    
+## Practice 04 重载练习题1 - 
+    判断2数据是否一样，比如2个byte，short，int，long
+    
+## Practice 05 判断题：
+    1. public static void open() {} - 正确重载
+    2. public static void open(int a) {} - 正确
+    3. static void open (int a, int b) {} - 与第八行冲突
+    4. public static void open (double a, int b) {} -正确
+    5. public static void open (int a, double b) {} - 与第六冲突   
+    6. public void open (int i, double d) {} - 与第五行冲突
+    7. public static void OPEN() {} -代码正确，但不是有效重载
+    8. public static void open (int i, int j) {} - 与第三行冲突 
+    
+    
+## Practice 06 模拟println方法
+    调用输出语句，println进行了多种数据类型的重载
 
 
 
