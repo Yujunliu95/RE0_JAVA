@@ -3,7 +3,7 @@ package cn.demo01;
 public class Practice06 {
 
     public static void main(String[] args) {
-        myPrint(100)
+        myPrint(100);
     }
 
     public static void myPrint(byte num) {
