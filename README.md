@@ -382,15 +382,15 @@
     5.寄存器（PC Register):与CPU相关
     
 ## Demo08 一个数组的内存图
-   ![JngQKJ.png](https://s1.ax1x.com/2020/04/18/JngQKJ.png)
+   [![JngQKJ.png](https://s1.ax1x.com/2020/04/18/JngQKJ.png)](https://imgchr.com/i/JngQKJ)
 
 ## 两个数组的内存图
-   ![Jnglr9.png](https://s1.ax1x.com/2020/04/18/Jnglr9.png)
+   [![Jnglr9.png](https://s1.ax1x.com/2020/04/18/Jnglr9.png)](https://imgchr.com/i/Jnglr9)
 
 ## Demo09 两个引用指向同一个
     int[] arrayB = arrayA
     将arrayA的地址赋值给arrayB
-   ![JngKv4.png](https://s1.ax1x.com/2020/04/18/JngKv4.png)
+   [![Jngu2F.png](https://s1.ax1x.com/2020/04/18/Jngu2F.png)](https://imgchr.com/i/Jngu2F)
    
 ## Demo10 常见问题
     1. 数组索引越界异常
