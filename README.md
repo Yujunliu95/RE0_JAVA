@@ -382,21 +382,38 @@
     5.寄存器（PC Register):与CPU相关
     
 ## Demo08 一个数组的内存图
-   ![avatar](http://q8zeg2j4t.bkt.clouddn.com/image/Javamemory.png)
+   ![JngQKJ.png](https://s1.ax1x.com/2020/04/18/JngQKJ.png)
 
 ## 两个数组的内存图
-   ![avatar](http://q8zeg2j4t.bkt.clouddn.com/javamemory2.png)
+   ![Jnglr9.png](https://s1.ax1x.com/2020/04/18/Jnglr9.png)
 
 ## Demo09 两个引用指向同一个
     int[] arrayB = arrayA
     将arrayA的地址赋值给arrayB
-   ![avatar](http://q8zeg2j4t.bkt.clouddn.com/image/javamemory3.png)
+   ![JngKv4.png](https://s1.ax1x.com/2020/04/18/JngKv4.png)
    
 ## Demo10 常见问题
     1. 数组索引越界异常
     2. 空指针异常
     
 ## 获取数组长度： 数组名称.length
+   ![Jngu2F.png](https://s1.ax1x.com/2020/04/18/Jngu2F.png)
+   
+## Practice07 - 遍历数组
+
+## Practice08 - 求出数组最值
+
+## Practice09 - 数组元素反转 
+    不创建新的array，对称位置元素交换
+    [1,2,3,4] ---> [4,3,2,1]
     
+## Demo11 - 数组作为方法参数
     
+</details>
+
+[第四章代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/src/chapter04)
+
+<details>
+<summary>第四章-面向对象</summary>
+
 </details>

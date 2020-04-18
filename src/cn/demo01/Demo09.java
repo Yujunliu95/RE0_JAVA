@@ -23,4 +23,5 @@ public class Demo09 {
         System.out.println(arrayB); // address remains the same
         System.out.println(arrayB[1]); // 100
         System.out.println(arrayB[2]); // 200
+    }
 }
