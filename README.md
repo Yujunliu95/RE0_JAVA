@@ -507,7 +507,60 @@
     boolean --------> setMale, isMale 
 
 ## This关键字的作用
+    方法局部变量跟成员变量重名，优先使用局部变量
+    如果需要访问成员变量，用this
+    通过谁调用的方法，谁就是this
     
+## 构造方法
+    通过new创建对象时，就是在调用构造方法
+    格式：
+    public 类名称(参数类型 参数名称) {
+    方法体
+    }
+    
+    注意: 1.构造方法名称必须和所在类名称完全一样
+          2.不要写返回值类型和void
+          3.不能return一个具体的值
+          4.如果没有编写任何构造方法，那么编译器会送一个构造方法，没有参数、方法体
+          5.构造方法可以重载，参数名称相同，参数列表不同, 例: public Student(), public Studnet(String name)
+          
+          
+          
+## 练习-定义一个标准的类 chapter-04.practice
+    满足下列4个组成部分
+    1.所有成员变量都使用private关键字修饰
+    2.为每一个成员变量编写一对Getter/Setter方法
+    3.编写一个无参数构造方法
+    4.编写一个全参数构造方法
+
+
+
+</details>
+
+
+
+
+
+
+[第五章代码链接](https://github.com/Yujunliu95/RE0_JAVA/tree/master/src/API)
+
+<details>
+<summary>第五章-面向对象</summary>
+
+## API概述
+    Application Programming Interface
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
