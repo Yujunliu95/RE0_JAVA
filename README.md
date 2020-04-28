@@ -547,8 +547,22 @@
 <details>
 <summary>第五章-面向对象</summary>
 
-## API概述
+## API概述 ---------Scanner
     Application Programming Interface
+    Scanner功能: 实现键盘输入数据，到程序当中
+    引用类型使用步骤: 
+    1. 调包 import 包路径.类名称;
+    如果需要使用的目标类，和当前类在同一个包，可省略
+    只有java.lang下的内容不需要调包
+    
+    2. 创建
+    类名称 对象名 = new 类名称();
+    
+    3. 使用
+    对象名.成员方法名()
+    
+## Scanner使用步骤
+    System.in 代表从键盘进行输入。
 
 
 
