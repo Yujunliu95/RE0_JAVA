@@ -35,13 +35,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.StudentPractice">
-    <configuration name="Object07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.Object07" />
+  <component name="RunManager" selected="Application.ArrayList01">
+    <configuration name="Array01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.Array01" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.*" />
+          <option name="PATTERN" value="API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objectperson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.Objectperson" />
+    <configuration name="ArrayList01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.ArrayList01" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.*" />
+          <option name="PATTERN" value="API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objectstudent2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.Objectstudent2" />
+    <configuration name="Random02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.Random02" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.*" />
+          <option name="PATTERN" value="API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.PracticeStudent" />
+    <configuration name="Random03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.Random03" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.*" />
+          <option name="PATTERN" value="API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter04.practice.StudentPractice" />
+    <configuration name="Random04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.Random04" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter04.practice.*" />
+          <option name="PATTERN" value="API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentPractice" />
-        <item itemvalue="Application.Objectstudent2" />
-        <item itemvalue="Application.Object07" />
-        <item itemvalue="Application.PracticeStudent" />
-        <item itemvalue="Application.Objectperson" />
+        <item itemvalue="Application.ArrayList01" />
+        <item itemvalue="Application.Array01" />
+        <item itemvalue="Application.Random04" />
+        <item itemvalue="Application.Random03" />
+        <item itemvalue="Application.Random02" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,12 @@
       <workItem from="1587472052197" duration="2971000" />
       <workItem from="1587616159363" duration="4977000" />
       <workItem from="1587737578768" duration="2505000" />
-      <workItem from="1587815693431" duration="3938000" />
+      <workItem from="1587815693431" duration="5758000" />
+      <workItem from="1588319529806" duration="5000" />
+      <workItem from="1588339063415" duration="1572000" />
+      <workItem from="1588770218097" duration="1512000" />
+      <workItem from="1588945906782" duration="1945000" />
+      <workItem from="1589714407099" duration="5750000" />
     </task>
     <servers />
   </component>
@@ -136,30 +141,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1587817357000">
+    <state x="552" y="178" key="#Auto_Import" timestamp="1589732763776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587817357000" />
+    <state x="552" y="178" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1589732763776" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1589731463688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589731463688" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587817712438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587817712438" />
-    <state width="1877" height="291" key="GridCell.Tab.0.bottom" timestamp="1587817781893">
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom" timestamp="1589734080433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587817781893" />
-    <state width="1877" height="291" key="GridCell.Tab.0.center" timestamp="1587817781893">
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589734080433" />
+    <state width="1877" height="291" key="GridCell.Tab.0.center" timestamp="1589734080433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587817781893" />
-    <state width="1877" height="291" key="GridCell.Tab.0.left" timestamp="1587817781893">
+    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589734080433" />
+    <state width="1877" height="291" key="GridCell.Tab.0.left" timestamp="1589734080432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587817781893" />
-    <state width="1877" height="291" key="GridCell.Tab.0.right" timestamp="1587817781893">
+    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589734080432" />
+    <state width="1877" height="291" key="GridCell.Tab.0.right" timestamp="1589734080433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587817781893" />
+    <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589734080433" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587740774393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -180,10 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587738089105" />
-    <state x="669" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1587815693460">
+    <state x="669" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1589714407138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587815693460" />
+    <state x="669" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589714407138" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1587617755386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

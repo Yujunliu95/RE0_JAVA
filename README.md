@@ -563,6 +563,52 @@
     
 ## Scanner使用步骤
     System.in 代表从键盘进行输入。
+    
+## Scanner练习1----键盘输入2个int求和
+    API/Practice01
+    调用nextInt()
+
+## Scanner练习2----键盘输入3个数字，求最大值
+    API/Practice02
+    无法同时判断3个数字，应先判断前两个，再判断后两个
+    
+## 匿名对象 ----------Anonymous01/02
+    类名称 对象名 = new 类名称()
+    如果确定一个对象只使用一次，可以用匿名对象
+    
+## Random类的使用
+    1.导包
+    import java.util.Random;
+    
+    2.创建
+    Random r = new Random();
+    
+    3.使用
+    获取一个随机的数字，范围是int范围（有正负两种）： int num = r.nextInt()
+    
+## Random02 生成指定范围的随机数
+    获取一个随机的数字，左闭右开区间： int num = r.nextInt(3)
+    意思是[0,3), 0-2
+    
+## Random03 - 生成1-n之间的数 
+
+## Random04 - 猜数字小游戏
+    1. 产生一个随机数字， Random的nextInt
+    2. 需要键盘输入，需要Scanner中的nextInt
+    3. if判断，大了、小了、中了
+    4. 错了的话要再来一次，循环次数不确定，用while(true) 死循环
+
+## Array01/Person - 对象数组
+    缺点： 一旦创建，程序运行期间，内存长度不可以改变
+    
+## Arraylist01 - 概念
+    Arraylist的长度是可以随意变化
+    <E>代表泛型
+    泛型：装在集合当中所有元素，都是统一类型
+    泛型只能是引用类型，不能是基本类型
+
+    
+    
 
 
 
