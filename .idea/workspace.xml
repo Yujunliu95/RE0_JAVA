@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="555d4461-e783-41c6-ac63-bca45de8f44e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,35 +38,26 @@
   <component name="ProjectId" id="1aXQK8Q1ZA70L6LWqnb1tCNQPdx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ArrayList01">
-    <configuration name="Array01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="API.Array01" />
-      <module name="RE0_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="API.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice01">
     <configuration name="ArrayList01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="API.ArrayList01" />
       <module name="RE0_JAVA" />
@@ -62,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Random02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="API.Random02" />
+    <configuration name="ArrayList03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.ArrayList03" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Random03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="API.Random03" />
+    <configuration name="ArrayList04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.ArrayList04" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Random04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="API.Random04" />
+    <configuration name="ArrayList05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="API.ArrayList05" />
       <module name="RE0_JAVA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListPractice.Practice01" />
+      <module name="RE0_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayListPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice01" />
+        <item itemvalue="Application.ArrayList05" />
+        <item itemvalue="Application.ArrayList04" />
+        <item itemvalue="Application.ArrayList03" />
         <item itemvalue="Application.ArrayList01" />
-        <item itemvalue="Application.Array01" />
-        <item itemvalue="Application.Random04" />
-        <item itemvalue="Application.Random03" />
-        <item itemvalue="Application.Random02" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +156,84 @@
       <workItem from="1588770218097" duration="1512000" />
       <workItem from="1588945906782" duration="1945000" />
       <workItem from="1589714407099" duration="5750000" />
+      <workItem from="1599475472438" duration="1346000" />
+      <workItem from="1599476838629" duration="3273000" />
+      <workItem from="1599480159363" duration="2636000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1346" y="363" key="#Notifications" timestamp="1599480494117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1346" y="363" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1599480494117" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1599476767499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599476767499" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599476134031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599476134031" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599476108311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599476108311" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1599476112602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599476112602" />
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom" timestamp="1599492916848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599492916848" />
+    <state width="1877" height="201" key="GridCell.Tab.0.center" timestamp="1599492916848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599492916848" />
+    <state width="1877" height="201" key="GridCell.Tab.0.left" timestamp="1599492916848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599492916848" />
+    <state width="1877" height="201" key="GridCell.Tab.0.right" timestamp="1599492916848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599492916848" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599476818868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599476818868" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599476818868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599476818868" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599476818868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599476818868" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599476818868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599476818868" />
+    <state x="511" y="221" key="SettingsEditor" timestamp="1599476671489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="221" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599476671489" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1599465612704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

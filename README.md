@@ -606,8 +606,47 @@
     <E>代表泛型
     泛型：装在集合当中所有元素，都是统一类型
     泛型只能是引用类型，不能是基本类型
-
     
+## Arraylist03 - 集合的常用方法
+
+| 方法名                                   | 说明                                   |
+| ---------------------------------------- | -------------------------------------- |
+| public boolean   remove(Object o)        | 删除指定的元素，返回删除是否成功       |
+| public E   remove(int   index)           | 删除指定索引处的元素，返回被删除的元素 |
+| public E   set(int index,E   element)    | 修改指定索引处的元素，返回被修改的元素 |
+| public E   get(int   index)              | 返回指定索引处的元素                   |
+| public int   size()                      | 返回集合中的元素的个数                 |
+| public boolean   add(E e)                | 将指定的元素追加到此集合的末尾         |
+| public void   add(int index,E   element) | 在此集合中的指定位置插入指定的元素     |
+
+注意对于Arraylist，add一定成功，所以返回值可用可不用。
+
+
+## ArrayList04 - 遍历集合
+    list.fori 来自动生成
+    
+## ArrayList05 - 如何存储基本数据类型
+    ArrayList对象不能存储基本类型，只能存储引用类型的数据。类似<int> 不能写，但是存储基本数据类型对应的
+    包装类型是可以的。所以，想要存储基本类型数据， <> 中的数据类型，必须转换后才能编写，转换写法如下：
+    
+    基本类型基本类型包装类
+    byte Byte
+    short Short
+    int Integer
+    long Long
+    float Float
+    double Double
+    char Character
+    boolean Boolean
+    我们发现，只有Integer 和Character 需要特殊记忆，其他基本类型只是首字母大写即可。
+    
+## ArrayList练习
+
+第一题：数值添加到集合
+    生成6个1~33之间的随机整数,添加到集合,并遍历
+    
+第二题：对象添加到集合
+    自定义4个学生对象,添加到集合,并遍历
     
 
 
