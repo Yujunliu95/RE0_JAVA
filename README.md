@@ -642,28 +642,133 @@
     
 ## ArrayList练习
 
-第一题：数值添加到集合
+##第一题：数值添加到集合
     生成6个1~33之间的随机整数,添加到集合,并遍历
+    1. 思路：需要存储6个数字，创建一个集合， <Integer>
+            2. 产生随机数，需要用到Random
+            3. 用循环6次，来产生6个随机数字：for循环
+            4. 循环内调用r.nextInt(int n), 参数0-32，整体+1才是33
+            5. 把数字添加到集合中：add
+            6. 遍历集合：for、siz、get
     
-第二题：对象添加到集合
-    自定义4个学生对象,添加到集合,并遍历
+##第二题：对象添加到集合
+    问题：自定义4个学生对象,添加到集合,并遍历
+    思路：
+    1. 自定义Student学生类，4个部分
+    2. 创建一个集合，用来储存对象、泛型 <student>
+    3. 根据类，创建4个学生对象
+    4. 将4个对象添加到集合中： add
+    5. 遍历集合： for size get
+    
+## 第三题：打印集合方法
+    问题：定义以指定格式打印集合的方法(ArrayList类型作为参数)，使用{}扩起集合，使用@分隔每个元素。
+    照 {元素@元素@元素}。
+    
+    思路：
+    一般来说是sout（List); [10,20,30]
+    printArrayList(list); {10@20@30}
+    
+    复习：定义方法的三要素：
+    返回值类型：只是打印，没有运算，没有结果，用void
+    方法名： printArraylist
+    参数列表: Arraylist
+    
+## 第四题: 筛选集合
+    题目：用一个大集合存入20个随机数字，筛选出其中偶数元素，放入小集合中。
+    要求使用自定义方法来实现筛选。
+    
+    分析：
+    1.需要创建一个集合，用来储存int数字： <integer>
+    2.随机数字用random nextInt
+    3.循环20次，把随机数字放入大集合，for循环，add方法
+    4.自定义一个方法，用来进行筛选
+    筛选：根据大集合，得到小集合
+    三要素
+    返回值类型：Arraylist小集合
+    方法名称：getSmalllist
+    参数列表：Arraylist大集合（装着20个随机数字）
+    
+    5.判断if 是偶数：num%2 == 0
+    6.如果是偶数，放，else不放
     
 
+</details>
 
+<details>
+<summary>第五章-String类学习</summary>
 
+## 1.1 String类概述
+    java.lang.String类代表字符串。
+    API当中说：Java 程序中的所有字符串字面值（如 "abc" ）都作为此类的实例实现。
+    其实就是说：程序当中所有的双引号字符串，都是String类的对象。（就算没有new，也照样是。）
+   
+    字符串的特点：
+    1. 字符串的内容永不可变。【重点】
+    2. 正是因为字符串不可改变，所以字符串是可以共享使用的。
+    3. 字符串效果上相当于是char[]字符数组，但是底层原理是byte[]字节数组。
+   
+    创建字符串的常见3+1种方式。
+    三种构造方法：
+    public String()：创建一个空白字符串，不含有任何内容。
+    public String(char[] array)：根据字符数组的内容，来创建对应的字符串。
+    public String(byte[] array)：根据字节数组的内容，来创建对应的字符串。
+    一种直接创建：
+    String str = "Hello"; // 右边直接用双引号
+   
+    注意：直接写上双引号，就是字符串对象。
+    
+    
+## 注意事项    
+    字符串常量池：程序当中直接写上的双引号字符串，就在字符串常量池中。
+    
+    对于基本类型来说，==是进行数值的比较。
+    对于引用类型来说，==是进行【地址值】的比较。
 
+    
+## 1.2 字符串比较方法Equal
+    ==是进行对象的地址值比较，如果确实需要字符串的内容比较，可以使用两个方法：
 
+    public boolean equals(Object obj)：参数可以是任何对象，
+    只有参数是一个字符串并且内容相同的才会给true；否则返回false。
+    注意事项：
+    1. 任何对象都能用Object进行接收。
+    2. equals方法具有对称性，也就是a.equals(b)和b.equals(a)效果一样。
+    3. 如果比较双方一个常量一个变量，推荐把常量字符串写在前面。
+    推荐："abc".equals(str)    不推荐：str.equals("abc")
 
+    public boolean equalsIgnoreCase(String str)：忽略大小写，进行内容比较。
 
+    
+    
+## 1.3 String当中与获取相关的常用方法有：   
+    public int length()：获取字符串当中含有的字符个数，拿到字符串长度。
+    public String concat(String str)：将当前字符串和参数字符串拼接成为返回值新的字符串。
+    public char charAt(int index)：获取指定索引位置的单个字符。（索引从0开始。）
+    public int indexOf(String str)：查找参数字符串在本字符串当中首次出现的索引位置，如果没有返回-1值。
+    
+## 1.4 字符串的截取方法
+    public String substring(int index)：截取从参数位置一直到字符串末尾，返回新字符串。
+    public String substring(int begin, int end)：截取从begin开始，一直到end结束，中间的字符串。
+    备注：[begin,end)，包含左边，不包含右边。    
+    
 
-
-
-
-
-
-
-
-
-
-
+## 1.5 String当中与转换相关的常用方法有：
+    public char[] toCharArray()：将当前字符串拆分成为字符数组作为返回值。
+    public byte[] getBytes()：获得当前字符串底层的字节数组。
+    public String replace(CharSequence oldString, CharSequence newString)：
+    将所有出现的老字符串替换成为新的字符串，返回替换之后的结果新字符串。
+    备注：CharSequence意思就是说可以接受字符串类型。
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </details>

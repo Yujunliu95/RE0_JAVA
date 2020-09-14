@@ -16,6 +16,8 @@ package ArrayListPractice;
 import java.util.ArrayList;
 import java.util.Random;
 
+
+
 public class Practice01 {
 
     public static void main(String[] args) {
